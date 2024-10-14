@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -la /tmp/basics /tmp /root
+ls -la /basics /tmp /root
